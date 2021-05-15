@@ -1,0 +1,27 @@
+{
+	"name": "fdis",
+	"displayName": "fdis dark",
+	"description": "a custom version of one dark pro by fdis",
+	"publisher": "fdis111",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.56.0"
+	},
+	"author": {
+		"name": "francois disubi",
+		"email": "franckydissubi@gmail.com",
+		"url": "https://www.linkedin.com/in/fran%C3%A7ois-disubi-200653199/"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "fdis",
+				"uiTheme": "vs-dark",
+				"path": "./themes/fdis-color-theme.json"
+			}
+		]
+	}
+}
