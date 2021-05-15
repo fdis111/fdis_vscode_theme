@@ -12,6 +12,10 @@
 		"email": "franckydissubi@gmail.com",
 		"url": "https://www.linkedin.com/in/fran%C3%A7ois-disubi-200653199/"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fdis111/fdis_vscode_theme.git"
+	},
 	"categories": [
 		"Themes"
 	],
